@@ -1,0 +1,10 @@
+.customstyle {
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 5%;
+}
+.cardstyle {
+  display: flex;
+  margin: 5px;
+  width: 1000px;
+}
