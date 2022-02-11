@@ -4,7 +4,7 @@ $("#search-button").on("click",function(e){
     console.log(searchValue);
     
      searchWeather(searchValue)
-    addhistory(searchValue)
+   
     console.log(searchValue)
     $("#search-value").empty()
 }); 
